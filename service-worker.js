@@ -5,7 +5,7 @@
    - Al SUBIR: cambia SOLO este número (v1 -> v2 -> v3...). Nada más.
    ============================================================ */
 
-const VERSION = "v19";
+const VERSION = "v20";
 const CACHE = `invitacion-${VERSION}`;
 const FUENTES = "invitacion-fuentes";
 
